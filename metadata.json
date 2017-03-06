@@ -1,6 +1,6 @@
 {
   "name": "christiangda-powerdns",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "author": "Christian Gonzalez <christiangda@gmail.com>",
   "summary": "PowerDNS provisioner Module",
   "license": "GPL-3.0",
@@ -32,6 +32,12 @@
       "operatingsystemrelease": [
         "7.0",
         "8.0"
+      ]
+    },
+    {
+      "operatingsystem": "Ubuntu",
+      "operatingsystemrelease": [
+        "16.04"
       ]
     }
   ]
